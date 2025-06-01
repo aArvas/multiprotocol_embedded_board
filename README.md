@@ -38,6 +38,23 @@ The board includes:
 
 ---
 
+## 🖼️ Visual References
+
+### 🔹 Analog Charging Circuit
+![Analog Charging Circuit](Hardware/Charger_Schmeatics.png)
+
+### 🔹 PCB Top Layer
+![Top Layer](Hardware/pcb_top_layer.png)
+
+### 🔹 PCB Bottom Layer
+![Bottom Layer](Hardware/pcb_bottom_layer.png)
+
+### 🔹 3D Render
+![3D View](Hardware/pcb_3D.png)
+
+> 📝 These visuals are shared for demonstration purposes only. The full design remains confidential.
+
+
 ## 📌 Disclaimer
 
 This repository is published for reference purposes only.  
