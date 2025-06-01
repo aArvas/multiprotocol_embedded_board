@@ -47,10 +47,10 @@ The board includes:
 ![Top Layer](Hardware/pcb_top_layer.png)
 
 ### 🔹 PCB Bottom Layer
-![Bottom Layer](Hardware/pcb_bottom_layer.png)
+![Bottom Layer](Hardware/pcb_bottom_layer.png.png)
 
 ### 🔹 3D Render
-![3D View](Hardware/pcb_3D.png)
+![3D View](Hardware/PCB_3D.png.png)
 
 > 📝 These visuals are shared for demonstration purposes only. The full design remains confidential.
 
